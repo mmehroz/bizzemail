@@ -1,0 +1,10 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; avidhaus.mehroz@gmail.com
+Arrival-Date: Tue, 30 Nov 2021 14:14:08 -0800 (PST)
+X-Original-Message-ID: <61a6a230.1c69fb81.fa7fb.ca6c@mx.google.com>
+
+Final-Recipient: rfc822; mikki.reykjavik@gmail.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; Message rejected.  See https://support.google.com/mail/answer/69585 for more information.
+Last-Attempt-Date: Tue, 30 Nov 2021 14:14:09 -0800 (PST)

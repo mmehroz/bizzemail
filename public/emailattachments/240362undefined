@@ -1,0 +1,10 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; avidhaus.mehroz@gmail.com
+Arrival-Date: Mon, 29 Nov 2021 12:49:44 -0800 (PST)
+X-Original-Message-ID: <61a53ce8.1c69fb81.39e61.833f@mx.google.com>
+
+Final-Recipient: rfc822; sms.info.bitcoin@gmail.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; Message rejected.  See https://support.google.com/mail/answer/69585 for more information.
+Last-Attempt-Date: Mon, 29 Nov 2021 12:49:45 -0800 (PST)

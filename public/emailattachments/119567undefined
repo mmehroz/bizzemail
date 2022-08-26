@@ -1,0 +1,10 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; avidhaus.mehroz@gmail.com
+Arrival-Date: Tue, 30 Nov 2021 15:09:37 -0800 (PST)
+X-Original-Message-ID: <61a6af31.1c69fb81.28e3c.c8d2@mx.google.com>
+
+Final-Recipient: rfc822; madorskij.arthur1991@hotmail.de
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; Message rejected.  See https://support.google.com/mail/answer/69585 for more information.
+Last-Attempt-Date: Tue, 30 Nov 2021 15:09:37 -0800 (PST)

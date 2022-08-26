@@ -1,0 +1,10 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; avidhaus.mehroz@gmail.com
+Arrival-Date: Mon, 29 Nov 2021 14:42:35 -0800 (PST)
+X-Original-Message-ID: <61a5575b.1c69fb81.5a24.3467@mx.google.com>
+
+Final-Recipient: rfc822; dorrace@live.com
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: smtp; Message rejected.  See https://support.google.com/mail/answer/69585 for more information.
+Last-Attempt-Date: Mon, 29 Nov 2021 14:42:35 -0800 (PST)

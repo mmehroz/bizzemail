@@ -1,0 +1,13 @@
+Reporting-MTA: dns; googlemail.com
+Received-From-MTA: dns; avidhaus.mehroz@gmail.com
+Arrival-Date: Tue, 23 Nov 2021 11:54:57 -0800 (PST)
+X-Original-Message-ID: <c54a741defa762d016e54b3e00f42795@192.168.0.96>
+
+Final-Recipient: rfc822; avidhaus.saif@gmail.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser r11sor1484902wmq.27 - gsmtp
+Last-Attempt-Date: Tue, 23 Nov 2021 11:54:58 -0800 (PST)
